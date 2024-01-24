@@ -1,0 +1,5 @@
+Drug Dispenser Project, Nikki Johnson
+<br>Design tool used: moqups.com
+<br>For image one, the primary functions I represented were loading a medicine, having a dispense/input schedule, and alerting the user when needed. I think what I did well in this mockup is making it easy for users to input and edit medicines as well as view all of their medicines and their full schedule. I think what could make it better would allowing the user to input what days they need to take the medicine. 
+<br>For image two. the primary functions were the same. I felt like these functions were necessary to fulfill the project requirements. I think what I did well in this mockup was letting the user input how many times they take the medicine, what times of the day they take the medicine, as well as what day they take the medicine. I think what could make it better would be providing examples or explanations on how to input the necessary information. 
+<br>My favorite features are being able to press on a link to any of the choices on either image. 
