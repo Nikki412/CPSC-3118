@@ -1,7 +1,13 @@
-// Project Name
-// Student Name
-// Design tools used
-// 6 steps or operations that a user of the drug dispenser would have to perform in the process of using the device
-// Map these steps on a Journey Line diagram deciding whether the task is a negative, neutral, or positive part of the application 
-// Decide on a set of fictional persona characteristics of a typical user of the drug dispenser Persona diagra 
-  // persona should at least include Name, Photo, Demographics (Age, Gender, Location, Occupation), 3 general description elements, 3 goals, 3 frustrations, 3 interests, 3 problems, 3 solutions, and how much they use technology
+Drug Dispenser Journey Map and Persona
+<br>Nikki Johnson
+<br>Design tools used: figma.com & lucid.app
+<br> User Task List:
+<br>    1. Open the application
+<br>    2. Enter a medicine's information
+<br>    3. Load the medicine into the dispenser
+<br>    4. Check the medicine information to make sure it is correct or edit the medicine information
+<br>    5. Take the medicine when it is dispensed 
+<br>    6. If the user receives an alert that a medicine is low, they have to refill the medicine 
+<br>    7. View all Medicines
+<br>    8. View the medicine schedule
+<br>    9. Exit application 
