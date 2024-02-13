@@ -1,0 +1,6 @@
+C:\Users\kyrie\source\repos\Assignmentt 3\obj\Debug\net8.0-windows\Assignmentt_3.frmBurgers.resources
+C:\Users\kyrie\source\repos\Assignmentt 3\obj\Debug\net8.0-windows\Assignmentt 3.vbproj.GenerateResource.cache
+C:\Users\kyrie\source\repos\Assignmentt 3\obj\Debug\net8.0-windows\Assignmentt 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyrie\source\repos\Assignmentt 3\obj\Debug\net8.0-windows\Assignmentt 3.AssemblyInfoInputs.cache
+C:\Users\kyrie\source\repos\Assignmentt 3\obj\Debug\net8.0-windows\Assignmentt 3.AssemblyInfo.vb
+C:\Users\kyrie\source\repos\Assignmentt 3\obj\Debug\net8.0-windows\Assignmentt 3.vbproj.CoreCompileInputs.cache
