@@ -1,0 +1,17 @@
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\bin\Debug\net8.0-windows\MIdtermProject.exe
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\bin\Debug\net8.0-windows\MIdtermProject.deps.json
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\bin\Debug\net8.0-windows\MIdtermProject.runtimeconfig.json
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\bin\Debug\net8.0-windows\MIdtermProject.dll
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\bin\Debug\net8.0-windows\MIdtermProject.pdb
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.Form1.resources
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.Resources.resources
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.vbproj.GenerateResource.cache
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.AssemblyInfoInputs.cache
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.AssemblyInfo.vb
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.vbproj.CoreCompileInputs.cache
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.dll
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\refint\MIdtermProject.dll
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.pdb
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\MIdtermProject.genruntimeconfig.cache
+C:\Users\kyrie\Downloads\CPSC 3118\MIdtermProject\obj\Debug\net8.0-windows\ref\MIdtermProject.dll
