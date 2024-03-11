@@ -7,6 +7,7 @@ Public Class Form1
     ' Variables
     Dim strInput As String
     Dim decInput As Decimal
+    dim strResults As String
     Dim decResults As Decimal
     Dim numericCheck As Boolean
 
