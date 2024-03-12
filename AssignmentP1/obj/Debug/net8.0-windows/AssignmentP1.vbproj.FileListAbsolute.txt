@@ -1,0 +1,16 @@
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\bin\Debug\net8.0-windows\AssignmentP1.exe
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\bin\Debug\net8.0-windows\AssignmentP1.deps.json
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\bin\Debug\net8.0-windows\AssignmentP1.runtimeconfig.json
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\bin\Debug\net8.0-windows\AssignmentP1.dll
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\bin\Debug\net8.0-windows\AssignmentP1.pdb
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.Form1.resources
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.vbproj.GenerateResource.cache
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.AssemblyInfoInputs.cache
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.AssemblyInfo.vb
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.vbproj.CoreCompileInputs.cache
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.dll
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\refint\AssignmentP1.dll
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.pdb
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\AssignmentP1.genruntimeconfig.cache
+C:\Users\kyrie\Downloads\CPSC 3118\AssignmentP1\obj\Debug\net8.0-windows\ref\AssignmentP1.dll
